@@ -1,5 +1,5 @@
 """
-	manejor de Operadores ternarios ......
+	manejo de Operadores ternarios ......
 """
 
 sexos = ("hombre", "mujer")
